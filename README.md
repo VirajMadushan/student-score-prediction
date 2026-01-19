@@ -10,7 +10,8 @@
 
 **An intelligent web application that predicts student exam performance using Machine Learning and Deep Learning**
 
-[Live Demo]([https://your-app.streamlit.app](https://viraj-student-predictor.streamlit.app/)) 
+[Live Demo](https://viraj-student-predictor.streamlit.app/) • [Report Bug](https://github.com/YOUR_USERNAME/student-score-predictor/issues) • [Request Feature](https://github.com/YOUR_USERNAME/student-score-predictor/issues)
+
 </div>
 
 ---
