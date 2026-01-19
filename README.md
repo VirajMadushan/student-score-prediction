@@ -10,7 +10,7 @@
 
 **An intelligent web application that predicts student exam performance using Machine Learning and Deep Learning**
 
-[Live Demo](https://viraj-student-predictor.streamlit.app/) • [Report Bug](https://github.com/YOUR_USERNAME/student-score-predictor/issues) • [Request Feature](https://github.com/YOUR_USERNAME/student-score-predictor/issues)
+[Live Demo](https://viraj-student-predictor.streamlit.app/) 
 
 </div>
 
@@ -59,7 +59,7 @@ This project leverages both traditional **Machine Learning (Ridge Regression)** 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-score-predictor.git
+git clone https://github.com/VirajMadushan/student-score-predictor.git
 cd student-score-predictor
 ```
 
@@ -214,7 +214,7 @@ Output Layer (1 unit)
 
 **Project Details:**
 - **Course**: CIS6005 - Deep Learning
-- **Institution**: [Your University Name]
+- **Institution**: Cardiff met
 - **Student**: W.G. Viraj Madushan Jayaweera
 - **Student ID**: KD/BSCSD/20/02
 - **Competition**: Kaggle Playground Series S6E1
@@ -302,16 +302,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
-
-**W.G. Viraj Madushan Jayaweera**
-
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your.email@example.com
-
----
-
 ## 🙏 Acknowledgments
 
 - **Kaggle** - For providing the Playground Series S6E1 dataset
@@ -328,14 +318,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. [Streamlit Documentation](https://docs.streamlit.io)
 3. [TensorFlow Documentation](https://www.tensorflow.org/api_docs)
 4. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
-
----
-
-## 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/student-score-predictor?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/student-score-predictor?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/student-score-predictor?style=social)
 
 ---
 
