@@ -35,7 +35,7 @@ This project leverages both traditional **Machine Learning (Ridge Regression)** 
 <div align="center">
 
 ### Main Interface
-![image alt]([screenshots/main_interface.png](https://github.com/VirajMadushan/student-score-prediction/blob/60860c97efb7dd81c1f1636e67a11b963f975610/Main%20Interface.png))
+![image alt](https://github.com/VirajMadushan/student-score-prediction/blob/60860c97efb7dd81c1f1636e67a11b963f975610/Main%20Interface.png)
 
 </div>
 
